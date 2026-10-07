@@ -1,0 +1,482 @@
+[
+  {
+    "file": ".gitignore",
+    "size": 232,
+    "sha256": "bc8f423d2a19c61ab146ffd3a442ca0659242db5a1a2211d6822e859e8118efa"
+  },
+  {
+    "file": "data_columns.csv",
+    "size": 1653,
+    "sha256": "d187a9adc7447e3ee657e7418e5b4ffd99bbe225aa60cb72b760a4be2d3c8e6e"
+  },
+  {
+    "file": "DATA_DICTIONARY.md",
+    "size": 3294,
+    "sha256": "8e758b163f609608dee7ff9ce3a6e0d9f8ca59bd18fed65968911e12f5b11717"
+  },
+  {
+    "file": "environment/package_versions.csv",
+    "size": 5208,
+    "sha256": "fae8389bf0c431ef85986009909496e44f2ff0420f60c335cd2da235f8f9fed1"
+  },
+  {
+    "file": "environment/revision_session_info.txt",
+    "size": 1643,
+    "sha256": "580d0febac3866b3190d2e3747ed0b6f2db8a8973983423a3275ef545c23963b"
+  },
+  {
+    "file": "expected_results/revision/ancestry_labels_by_year.csv",
+    "size": 19383,
+    "sha256": "3e486591610b9cf33ad15110645a9e853eb049436f571ed8147c81d81806f8d8"
+  },
+  {
+    "file": "expected_results/revision/ancestry_missingness_categories.csv",
+    "size": 5069,
+    "sha256": "a56984bc941646805b54f4d2916d63c840e1de9b1a7d1dc8250759a378f4c8ce"
+  },
+  {
+    "file": "expected_results/revision/ancestry_missingness_summary.csv",
+    "size": 478,
+    "sha256": "fb9d0a0e959d447eece9f594d560d1142eeeac399f531f89e20ca30097598449"
+  },
+  {
+    "file": "expected_results/revision/annual_variability.csv",
+    "size": 663,
+    "sha256": "74d5ce0d5b80f793f49d688b2e9a0653bd03cf38d187e8723e577e4721b990ce"
+  },
+  {
+    "file": "expected_results/revision/effect_comparisons.csv",
+    "size": 46583,
+    "sha256": "25b3960f8da558ab72ed6a77c0f3cbae28c03542cc35f56af5ef09d0073b02ea"
+  },
+  {
+    "file": "expected_results/revision/extreme_records_83.csv",
+    "size": 5530,
+    "sha256": "21d69ac49422bcbc10f8db368d0ddf77ffdd69c54c48b2de6c60445a0ba3bbe8"
+  },
+  {
+    "file": "expected_results/revision/lmm_overall_tests.csv",
+    "size": 496,
+    "sha256": "4c20b9af9fc72246b98a190a75405bb01c9716b05f1c0ab4f3d4f83e28702577"
+  },
+  {
+    "file": "expected_results/revision/lmm_variance.csv",
+    "size": 143,
+    "sha256": "17c93b44d23078ae9e324bf8e232daff450c9dcff122b87ea530df5cf2111e23"
+  },
+  {
+    "file": "expected_results/revision/model_diagnostics.csv",
+    "size": 3867,
+    "sha256": "b73fe81eb6fdb93eef08692805958fbb3de730d6e25d0cffe19badb37704745f"
+  },
+  {
+    "file": "expected_results/revision/numerical_checks.csv",
+    "size": 872,
+    "sha256": "c108e2c335ec092231afaf18db4ad6ca9451e464bcb783b193793fa0973bf68a"
+  },
+  {
+    "file": "expected_results/revision/p5_numerical_check.csv",
+    "size": 510,
+    "sha256": "db42c8fffdc589b8f361cdde933fd7603a960cd5aad93916aa672f073ba472b7"
+  },
+  {
+    "file": "expected_results/revision/qr_bootstrap_diagnostics.csv",
+    "size": 23660,
+    "sha256": "5501c10376ce40af73851fcc3e40ccd165de7f43c6d796522989f4e1a17400eb"
+  },
+  {
+    "file": "expected_results/revision/quantile_regression_cluster_bootstrap.csv",
+    "size": 7039,
+    "sha256": "d0a138ac359877cedcb28931fdc45e581f5a4316ee8798bc455cfa2d7bfb9fe7"
+  },
+  {
+    "file": "expected_results/revision/table3_lmm_means.csv",
+    "size": 2070,
+    "sha256": "8691d95984eef911a674738c4809c6132cfb9b79c84b846fef1bff7fad82215d"
+  },
+  {
+    "file": "expected_results/revision/table3_tukey_comparisons.csv",
+    "size": 5011,
+    "sha256": "d9e5e0919013c7e5c2e15ea6729678ddc4babce285c2e9c38bc671e3948850b5"
+  },
+  {
+    "file": "expected_results/revision/table4_primary_OR.csv",
+    "size": 3969,
+    "sha256": "59190902778ac14c618d4b3370439377b0a3722762bc30bd96296d77e3fa6939"
+  },
+  {
+    "file": "expected_results/revision/tail_model_effects.csv",
+    "size": 35992,
+    "sha256": "335e4d6a507bffaa4bf824b6b644caf008a47160c26cd0a84c9414487342aafb"
+  },
+  {
+    "file": "expected_results/revision/thresholds.csv",
+    "size": 135,
+    "sha256": "c6636e0dcd60b6fbe22604a5415e13933ac6e09741d951bbb786f318c367012d"
+  },
+  {
+    "file": "expected_results/revision/year_season_counts.csv",
+    "size": 358,
+    "sha256": "44682b4c1040315b5474acd83a4f3328fc6d338f68fde8279fdb5edaae617525"
+  },
+  {
+    "file": "figure_source/Figure_3E_source.csv",
+    "size": 5550,
+    "sha256": "b27332601c92749fe61ae5991988aba20572b32b2b43f7de84e251d9788df25c"
+  },
+  {
+    "file": "figure_source/Figure_3F_source.csv",
+    "size": 26159,
+    "sha256": "ff59201b691fec0e5f0bd5f6365913262a5dfa015cee15e9b4be590c45c218c6"
+  },
+  {
+    "file": "figures/Figure_1_Study_design_and_analytical_workflow.png",
+    "size": 292125,
+    "sha256": "01535cd4364c9cf869e10b3759ff5bdbc82ed2b7588c0cef982cc0d0cd460011"
+  },
+  {
+    "file": "figures/Figure_2_Temporal_distribution_and_tail_dynamics.png",
+    "size": 657864,
+    "sha256": "c6ebf06a8bfb9b19b73e0d0f8def1581dc11ddda217d7896b307c656b59ab4cd"
+  },
+  {
+    "file": "figures/Figure_3_Distribution_quantile_regression_threshold_stability.png",
+    "size": 427305,
+    "sha256": "397d02a0666063b4354855587809e3ee7226304ed7e408d7f7887e5245cae76a"
+  },
+  {
+    "file": "figures/Figure_4_Exploratory_response_and_label_associations.png",
+    "size": 922553,
+    "sha256": "43a10c8bd4c73f9e69179c8587bfa3f35f87df26df17a2a2c86ea9fa9896d975"
+  },
+  {
+    "file": "LICENSE.md",
+    "size": 588,
+    "sha256": "986a3fc4f14d9026929feb48c898fbdc181b5eb07ea11f52c8d7d8a9fda3c61b"
+  },
+  {
+    "file": "LICENSE_CODE.txt",
+    "size": 1087,
+    "sha256": "e9a359525a04415f9f13a82fcaac5826afea6fb904a52b51d4fd477d8bb0e84d"
+  },
+  {
+    "file": "LICENSE_DATA.md",
+    "size": 544,
+    "sha256": "2dbf169912e34e50fa63df8aa7df060eb1c4e6bce0c178e25172d99510a2928e"
+  },
+  {
+    "file": "original_analysis/data/processed/all_valid_records.csv",
+    "size": 2398204,
+    "sha256": "b99bdc11b5d03fcad1769200f7fbb335ac90cc0d00f2c3102ac04b9f29995341"
+  },
+  {
+    "file": "original_analysis/data/processed/calving_clean.csv",
+    "size": 2398601,
+    "sha256": "e6dccad8d6d88b18bdda9b5d3df202c6ef50ca6df8d5d055ecf211db8529261b"
+  },
+  {
+    "file": "original_analysis/data/processed/duplicate_or_multiple_check.csv",
+    "size": 7805,
+    "sha256": "859ea3bc28faa50a9bcc7a746c02f3fa2c9abc05c7f7d3f26f5a0fc334136896"
+  },
+  {
+    "file": "original_analysis/data/processed/glmm_tail_forest_data.csv",
+    "size": 4508,
+    "sha256": "9b453fc7ba40e6f08de03003f4571e769ff00b2554b355d15db0bd19bfed9392"
+  },
+  {
+    "file": "original_analysis/data/processed/lmm_emmeans_for_figures.csv",
+    "size": 2002,
+    "sha256": "7860a8e6857b018a7458d7f654b250ece3a5c784363664523ca7aa8d4c981e8c"
+  },
+  {
+    "file": "original_analysis/data/processed/singleton_analysis.csv",
+    "size": 2374341,
+    "sha256": "5d3cea4a8fc5179b595bae39a618a3974a05423b159c9044c23c4be34041269a"
+  },
+  {
+    "file": "original_analysis/data/processed/singleton_analysis_with_tail_phenotypes.csv",
+    "size": 2615660,
+    "sha256": "ed0cb456faff0ee9ebda752df395369e3dd3413bfbbebefee9b2a1d4eb14764a"
+  },
+  {
+    "file": "original_analysis/data/processed/twin_records.csv",
+    "size": 24675,
+    "sha256": "23f2316ccb8a022364ef515021cb0a78273d8e648b83a1a17a03f92078a5ff95"
+  },
+  {
+    "file": "original_analysis/data/raw/calving_records.xlsx",
+    "size": 485728,
+    "sha256": "d437ccbf3e81231332f6edbb1bb62ff2fd05c54364e693a0aaf3cb4c3fc20861"
+  },
+  {
+    "file": "original_analysis/outputs/figures/advanced_candidates/reference_style/source_data/panel_A_dam_age_response_bins.csv",
+    "size": 1776,
+    "sha256": "c714e203b40c683498c1b7160e19d0aa8645d981bd3094c5ff5bb3111a30f263"
+  },
+  {
+    "file": "original_analysis/outputs/figures/advanced_candidates/reference_style/source_data/panel_A_dam_age_response_predictions.csv",
+    "size": 28329,
+    "sha256": "11ea1b2ca74e0cdf2625a936709a7751b21f3d3788a92000297c5c9bb5304b2b"
+  },
+  {
+    "file": "original_analysis/outputs/figures/advanced_candidates/reference_style/source_data/panel_B_exploratory_label_volcano.csv",
+    "size": 9020,
+    "sha256": "140469e573a11183d1a9f8a9f3b96bb1a6455c8b201bb4c2c62741085ce49a2f"
+  },
+  {
+    "file": "original_analysis/outputs/figures/advanced_candidates/reference_style/source_data/panel_C_year_season_age_weight_scatter.csv",
+    "size": 2785,
+    "sha256": "84d43820a064f990685d79d54518f50f5ca61295f9093fea91f47fb6600f898e"
+  },
+  {
+    "file": "original_analysis/outputs/figures/advanced_candidates/source_data/advanced_A_parity_sex_tail_stack.csv",
+    "size": 2572,
+    "sha256": "b52ef7adb8db8c8098fe42ba726ab1bfd5cfd9881e9a12046898b3e6b35ae574"
+  },
+  {
+    "file": "original_analysis/outputs/figures/advanced_candidates/source_data/advanced_A_tail_burden_heatmap.csv",
+    "size": 1430,
+    "sha256": "4e1418a36c0b35228a07b47b4efb5f5725412c1450556b3acf9c20f601b0863e"
+  },
+  {
+    "file": "original_analysis/outputs/figures/advanced_candidates/source_data/advanced_A_year_season_tail_stack.csv",
+    "size": 3010,
+    "sha256": "d981f15d394b0de3fad7ac5689659d93d931995e3e790786b872e6e58e663b2f"
+  },
+  {
+    "file": "original_analysis/outputs/figures/advanced_candidates/source_data/advanced_B_descriptive_effect_risk_map.csv",
+    "size": 4595,
+    "sha256": "a4fec5779a104bccf46956730dede92c26c715c87c9d70cd116e577c3c5fa149"
+  },
+  {
+    "file": "original_analysis/outputs/figures/advanced_candidates/source_data/advanced_C_adjusted_model_forest.csv",
+    "size": 3715,
+    "sha256": "1fa1f8f31b8f9a1097d497341200065398a4d46d88a8cc7c23826a8e01676627"
+  },
+  {
+    "file": "original_analysis/outputs/figures/advanced_candidates/source_data/advanced_D_ridge_medians.csv",
+    "size": 1005,
+    "sha256": "deca05500b3850d1f9d0d432d6e9a06aab8f6523fc0f4b87757a2f1a685e0a9d"
+  },
+  {
+    "file": "original_analysis/outputs/figures/advanced_candidates/source_data/advanced_D_ridge_parity_source.csv",
+    "size": 343801,
+    "sha256": "8853bb98b8d39b0c68e0de1c07b7a4dcee7086b67ee1378e7ebd917fa8977549"
+  },
+  {
+    "file": "original_analysis/outputs/figures/advanced_candidates/source_data/advanced_D_ridge_season_source.csv",
+    "size": 211522,
+    "sha256": "c6ada002e99d796178b7a2e98736021f5c5774e9cf3c0c66ac2767857933320c"
+  },
+  {
+    "file": "original_analysis/outputs/figures/enhanced/3d/source_data/3d_scatter_source.csv",
+    "size": 637662,
+    "sha256": "66cfb16be5cbc52d28a4784949b74750e2b49c16d69a4f55754d70a38f9f4ce6"
+  },
+  {
+    "file": "original_analysis/outputs/figures/enhanced/3d/source_data/3d_surface_metadata.csv",
+    "size": 221,
+    "sha256": "d27118abbee39ce4b6ba0fd8280edfb2a973b9d7a91c0a9059032ebf7c42c60b"
+  },
+  {
+    "file": "original_analysis/outputs/figures/enhanced/3d/source_data/3d_surface_source.csv",
+    "size": 425991,
+    "sha256": "3c5928110e83ed87b367fc3531f7a47776bce255f64008b2c7773e1e3a51dbb5"
+  },
+  {
+    "file": "original_analysis/outputs/figures/enhanced/source_data/figure1_tail_rate.csv",
+    "size": 321,
+    "sha256": "a6866e9a95b1620eb41a11310f435f0633b1bbc953a0d50079a8739d261c712e"
+  },
+  {
+    "file": "original_analysis/outputs/figures/enhanced/source_data/figure1_thresholds.csv",
+    "size": 312,
+    "sha256": "d3b73b61b14a4d70bc7b31e538370994d85f5f37d1b76edbfe32a50eff08814b"
+  },
+  {
+    "file": "original_analysis/outputs/figures/enhanced/source_data/figure2_monthly_summary.csv",
+    "size": 12165,
+    "sha256": "b3e93d72778f87372f0adfb221d2961b9306ff2e97cbc4e6ca2bcc765502a2d0"
+  },
+  {
+    "file": "original_analysis/outputs/figures/enhanced/source_data/figure3_year_season.csv",
+    "size": 1447,
+    "sha256": "8e41ec02ef7d3cc85a56e6a922d6b15d4c94cbad5655bba4b23e0e440f88d9dd"
+  },
+  {
+    "file": "original_analysis/outputs/figures/enhanced/source_data/figure4_glmm_emmeans_or.csv",
+    "size": 3005,
+    "sha256": "283553034ba56c6ad0975bda7ccdba011bca56aeda880636f29b6a7ff0cb8d24"
+  },
+  {
+    "file": "original_analysis/outputs/figures/enhanced/source_data/figure4_glmm_forest.csv",
+    "size": 5356,
+    "sha256": "ad1aa575395eaddb3ac6cd92e9218fcc013cc01ebfd0e1d3a41ec67bacac9ad1"
+  },
+  {
+    "file": "original_analysis/outputs/figures/enhanced/source_data/figure5_label_rankings.csv",
+    "size": 6183,
+    "sha256": "025f5d40dc2711deb1545f1217d373a7e5b111f777c86412ea83a32d50574d64"
+  },
+  {
+    "file": "original_analysis/outputs/figures/enhanced/source_data/figure6_age_parity_summary.csv",
+    "size": 1086,
+    "sha256": "b358fabcda85ffa7b77dee5861deb1c8746f6685c2979fa7b503ae2c7bd406a8"
+  },
+  {
+    "file": "original_analysis/outputs/figures/final_grouped/source_data/candidate_plot3d_point_cloud_source.csv",
+    "size": 1000183,
+    "sha256": "609976647c5acd7ab75298d8769fc4eb3847d8e8157ccc7d765f026291dd10b0"
+  },
+  {
+    "file": "original_analysis/outputs/figures/final_grouped/source_data/shared_monthly_summary.csv",
+    "size": 12165,
+    "sha256": "b3e93d72778f87372f0adfb221d2961b9306ff2e97cbc4e6ca2bcc765502a2d0"
+  },
+  {
+    "file": "original_analysis/outputs/figures/final_grouped/source_data/shared_parity_age_summary.csv",
+    "size": 1547,
+    "sha256": "92555c563592021c548c049de6c44490455b8534cfe8ea1628a0ef8734aa24b1"
+  },
+  {
+    "file": "original_analysis/outputs/figures/final_grouped/source_data/shared_year_season_summary.csv",
+    "size": 1462,
+    "sha256": "fa92334a9fbd8434e83c8394542178473f726daf179d6d86e011e0b0d8ecd2c6"
+  },
+  {
+    "file": "original_analysis/scripts/00_config.R",
+    "size": 11609,
+    "sha256": "60e7ae4468060fe68807cc64fc3c4b0ab025a294309fefe4cc4c1e5cc75d1ca4"
+  },
+  {
+    "file": "original_analysis/scripts/01_data_cleaning.R",
+    "size": 11093,
+    "sha256": "97e207641492a72d4b08a3332c7ba11be234edfc8ea0f5e1f7748e5d4e71a555"
+  },
+  {
+    "file": "original_analysis/scripts/02_qc_summary.R",
+    "size": 8957,
+    "sha256": "499a0484dc191db1c8de8c73d2c38455637c68035dd67f45b27a213f176b569b"
+  },
+  {
+    "file": "original_analysis/scripts/03_descriptive_stats.R",
+    "size": 3256,
+    "sha256": "d730203ffa2466c2624b1d6b68a1ae78ef1d8a5069b68be872f13a934d2b2fb8"
+  },
+  {
+    "file": "original_analysis/scripts/04_least_squares_fixed_effects.R",
+    "size": 3953,
+    "sha256": "204a0db15ad80eb2416579d5d0c56de04a2e0911351d03d57d4b74f6d6bacc23"
+  },
+  {
+    "file": "original_analysis/scripts/05_lmm_birth_weight.R",
+    "size": 4711,
+    "sha256": "42d77f01d7bd4c9e28c3518f996901a75110820de6e54fd3387c2c1a7157529d"
+  },
+  {
+    "file": "original_analysis/scripts/06_tail_phenotypes.R",
+    "size": 4193,
+    "sha256": "9cf7126903db4e08f9b52ed97a5940ee01cf153fbfe4fe8daea4a7b1be7874f1"
+  },
+  {
+    "file": "original_analysis/scripts/07_glmm_tail_models.R",
+    "size": 7462,
+    "sha256": "02562686e2000d0444f73a83ba6ab3cc94264ea9fc3a03657c9304bc47415a2d"
+  },
+  {
+    "file": "original_analysis/scripts/08_quantile_regression.R",
+    "size": 2552,
+    "sha256": "357bcc8743944e6fe394cb18d2557a3cec1a710e5b57c1ef1815c4b2403cfb3b"
+  },
+  {
+    "file": "original_analysis/scripts/09_service_sire_mgs_exploratory.R",
+    "size": 5218,
+    "sha256": "ac017ff22043ffcbcb65d2d301d01f7fe7bb19b048eaf568dfb69660fd807990"
+  },
+  {
+    "file": "original_analysis/scripts/10_sensitivity_analysis.R",
+    "size": 8644,
+    "sha256": "2f400d58c7684b8648b7f2d62d7a90aecb3d605d75cdae4eb48e1ebd1ca2b445"
+  },
+  {
+    "file": "original_analysis/scripts/11_make_figures.R",
+    "size": 8038,
+    "sha256": "b25828db7bf39f638c8e902ea498dece854eba3224a0fbbb6cb74d48b23d861f"
+  },
+  {
+    "file": "original_analysis/scripts/13_make_enhanced_figures.R",
+    "size": 21669,
+    "sha256": "3f658c19557c8fb8b32f979d5e8a22724cb4334c5ed91256cecb23c629674fe9"
+  },
+  {
+    "file": "original_analysis/scripts/14_make_3d_figures.R",
+    "size": 7032,
+    "sha256": "dbf0a335f7dac7aae582a71df2b2479392e6800f9a2b4a5fa2ce5d7c41885208"
+  },
+  {
+    "file": "original_analysis/scripts/15_make_advanced_candidate_figures.R",
+    "size": 20704,
+    "sha256": "ca246f37f6165d1c58befec2b9ca190b657536e2245070a95b9c59e9136bbd87"
+  },
+  {
+    "file": "original_analysis/scripts/16_make_reference_style_triptych.R",
+    "size": 14539,
+    "sha256": "f0526a63c58c2137dcee422461bfcc960e2ff22f2918a49099186f24472140e8"
+  },
+  {
+    "file": "original_analysis/scripts/17_make_final_grouped_figures.R",
+    "size": 29944,
+    "sha256": "57c3712534a1657082569967a6c8f36031467abd142a05dbd9218ddf3c3cbdab"
+  },
+  {
+    "file": "README.md",
+    "size": 2895,
+    "sha256": "b58d11002fd0092c0372ec9b439f327228624a52dcf230924a9c1af9381b383e"
+  },
+  {
+    "file": "REPRODUCIBILITY.md",
+    "size": 3348,
+    "sha256": "7321985856cb9f78659521a7d98dd4ec68c9ef5c063989aa0da1518c133221b6"
+  },
+  {
+    "file": "revision_analysis/scripts/01_revision_analysis.R",
+    "size": 16074,
+    "sha256": "abb74ceadb0d5cf9dabb9774e0addd305e6822d2cb76d43f3f6c885f855e3da0"
+  },
+  {
+    "file": "revision_analysis/scripts/03_check_sparse_fit.R",
+    "size": 1960,
+    "sha256": "b094d3baca6fb668bd0c98fa1abf51962958dfe73864652a2b7179d14942aa6e"
+  },
+  {
+    "file": "revision_analysis/scripts/14_restore_main_figures.R",
+    "size": 5479,
+    "sha256": "4d164298d1d72dd65a9112466ad5b445a6c50299738e78bf1cf653941541e451"
+  },
+  {
+    "file": "RIGHTS.md",
+    "size": 945,
+    "sha256": "cac88fa39c96211a60b55047c3711a8c550246884f39cee3363569d172f4fb8e"
+  },
+  {
+    "file": "run_reproduction.R",
+    "size": 4354,
+    "sha256": "48035330185d218931eff83e17fbbaaad9a17b4fa6f93b917abe0fbc6bd8e81f"
+  },
+  {
+    "file": "tables/Main_Tables_Revised.xlsx",
+    "size": 10300,
+    "sha256": "37d5e76677c64f85623a54f7c93e920f9a3c5e3e0c55ab684505902e2f32f989"
+  },
+  {
+    "file": "tables/Supplementary_Tables.xlsx",
+    "size": 51685,
+    "sha256": "f0a228c88fcdb5a296e05ba3967eea1d4f5f9c7ead9f3386c2656c55b5041b55"
+  },
+  {
+    "file": "verify_release.py",
+    "size": 1678,
+    "sha256": "51578859b4822f05ebeb636b776a8a6597b56a23e7699d4c9b4eaa6f5ea13ea8"
+  }
+]

@@ -1,0 +1,5 @@
+"optimizer","nAGQ","logLik","variance","singular","messages"
+"bobyqa",9,-1801.53537894499,0.601546738766802,FALSE,"unused control arguments ignored; unused control arguments ignored"
+"nloptwrap",9,-1801.53538190151,0.601674605213,FALSE,"Model failed to converge with max|grad| = 0.00246903 (tol = 0.002, component 1)
+  See ?lme4::convergence and ?lme4::troubleshooting.; Model failed to converge with max|grad| = 0.00246903 (tol = 0.002, component 1)
+  See ?lme4::convergence and ?lme4::troubleshooting."

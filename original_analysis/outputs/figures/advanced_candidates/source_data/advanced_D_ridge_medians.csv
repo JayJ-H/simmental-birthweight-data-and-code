@@ -1,0 +1,23 @@
+"group_title","calf_sex","group_label","group_index","n","median_birth_weight"
+"Parity group","female","1",1,1037,41.3
+"Parity group","female","2",2,834,42.8
+"Parity group","female","3",3,743,44.1
+"Parity group","female","4",4,579,43.6
+"Parity group","female","5",5,618,43.8
+"Parity group","female","6",6,506,43.5
+"Parity group","female",">=7",7,416,43.2
+"Parity group","male","1",1,1001,44
+"Parity group","male","2",2,796,46.35
+"Parity group","male","3",3,701,47.8
+"Parity group","male","4",4,604,47.55
+"Parity group","male","5",5,614,46.6
+"Parity group","male","6",6,496,47.6
+"Parity group","male",">=7",7,439,47.1
+"Calving season","female","Spring",1,1518,42.8
+"Calving season","female","Summer",2,872,41.45
+"Calving season","female","Autumn",3,864,42.4
+"Calving season","female","Winter",4,1479,44.5
+"Calving season","male","Spring",1,1477,46.3
+"Calving season","male","Summer",2,819,44.7
+"Calving season","male","Autumn",3,880,46.2
+"Calving season","male","Winter",4,1475,47.5

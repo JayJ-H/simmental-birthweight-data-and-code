@@ -1,0 +1,5 @@
+"calf_sex","n","phenotype","rate","phenotype_label"
+"female",4733,"lower_tail",0.101626875132052,"Lower-tail phenotype"
+"female",4733,"upper_tail",0.10247200507078,"Upper-tail phenotype"
+"male",4651,"lower_tail",0.100408514298,"Lower-tail phenotype"
+"male",4651,"upper_tail",0.101053536873791,"Upper-tail phenotype"

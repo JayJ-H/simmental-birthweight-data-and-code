@@ -1,0 +1,11 @@
+*.rds
+*.RData
+*.Rhistory
+Rplots.pdf
+__pycache__/
+original_analysis/outputs/logs/
+original_analysis/outputs/models/
+original_analysis/outputs/tables/
+original_analysis/manuscript_notes/
+revision_analysis/results/
+reproduced_figures/

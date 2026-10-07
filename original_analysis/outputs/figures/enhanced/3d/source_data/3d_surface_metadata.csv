@@ -1,0 +1,6 @@
+"item","value"
+"dam_age_lower","24.7"
+"dam_age_upper","113.7"
+"z_lower","38"
+"z_upper","50"
+"model_note","Sex-stratified GAM with cyclic month smooth; predictions restricted to 5th-95th percentile dam-age support."

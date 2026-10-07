@@ -1,0 +1,6 @@
+"model","initial_logLik","initial_variance","selected_logLik","selected_variance","AGQ9_variance","selected_nAGQ","max_fixed_effect_change_between_optimizers","secondary_optimizer_messages","messages"
+"p5p95_lower",-1596.92123281693,71.6610068555999,-1801.53537894499,0.601546738766802,0.601546738766802,9,0.000158955471072364,"",""
+"p5p95_upper",-1601.24804322467,56.6761402138551,-1766.08124026552,1.29293329089539,1.29293329089539,9,0.0023245163417831,"Model failed to converge with max|grad| = 0.00718963 (tol = 0.002, component 1)
+  See ?lme4::convergence and ?lme4::troubleshooting.",""
+"sire_subset_base_upper",-2312.3593182809,51.1664124440933,-2397.60906741956,0.864599023023421,0.864599023023421,9,0.000406450702455707,"Model failed to converge with max|grad| = 0.0042584 (tol = 0.002, component 1)
+  See ?lme4::convergence and ?lme4::troubleshooting.",""
