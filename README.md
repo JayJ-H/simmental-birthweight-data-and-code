@@ -58,5 +58,7 @@ https://github.com/JayJ-H/simmental-birthweight-data-and-code
 Data and derived research outputs are licensed under CC BY 4.0.
 R and Python code is licensed under MIT. See `LICENSE.md` and `RIGHTS.md`
 for scope and attribution, and `LICENSE_CODE.txt` for the MIT terms.
-The Zenodo archival record is being finalized; no registered DOI is claimed
-until the public record has been verified.
+The published version 1.0.0 archival snapshot is available at
+https://doi.org/10.5281/zenodo.23200660.
+The release ZIP remains that fixed snapshot; this browsable repository may
+receive documentation-only updates after archival publication.
